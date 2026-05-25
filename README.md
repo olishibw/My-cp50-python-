@@ -1,2 +1,2 @@
-# My-cp50-python-
+# My-cs50-python-
 Learning 
